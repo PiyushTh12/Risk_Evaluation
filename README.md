@@ -24,6 +24,7 @@ This project provides a modern interface for evaluating and visualizing employee
 It leverages GSAP for smooth animations, Vite + React for a fast frontend, and Express.js for backend logic and data handling.
 
 ⚙️ Tech Stack
+
 ⚛️ React.js (Frontend)
 
 ⚡ Vite (Build Tool)
